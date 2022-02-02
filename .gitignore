@@ -1,2 +1,11 @@
+# Scala stuff
 *.class
 *.log
+
+# Stuff from vs code 
+.bloop/*
+.metals/*
+.vscode/*
+
+# No output files from the program
+*.txt
