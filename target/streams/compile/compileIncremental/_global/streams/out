@@ -22,19 +22,19 @@
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /home/jon/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.0.2/scala3-sbt-bridge-3.0.2.jar.[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler d0a4a5e for Scala Compiler version 3.0.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 58935623 for Scala Compiler version 3.0.2[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk/jre/classes:/home/jon/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.0.2/scala3-library_3-3.0.2.jar:/home/jon/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.138337628 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.217046557 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from util.FileHandler...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: util.FileHandler[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(util.FileHandler)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(util.FileHandler,ModifiedNames(changes = UsedName(read,[Default]))) invalidates 1 classes due to The util.FileHandler has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(read,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(util.FileHandler,ModifiedNames(changes = UsedName(read$default$2,[Default]), UsedName(read,[Default]))) invalidates 1 classes due to The util.FileHandler has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(read$default$2,[Default]), UsedName(read,[Default]).[0m
 [0m[[0m[0mdebug[0m] [0m[0m  > by transitive inheritance: Set(util.FileHandler)[0m
 [0m[[0m[0mdebug[0m] [0m[0m  > [0m
 [0m[[0m[0mdebug[0m] [0m[0m  > [0m
