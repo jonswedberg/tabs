@@ -8,4 +8,4 @@
 .vscode/*
 
 # No output files from the program
-*.txt
+output/*

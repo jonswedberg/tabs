@@ -1,9 +1,19 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /home/jon/prog/kulsak/tabs/target/scala-3.0.2/tabs_3-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tabs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/tabs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tabs/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/tabs/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tabs/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/tabs/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tabs/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/tabs/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/FileHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/util/FileHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/FileHandler.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/util/FileHandler.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/FileHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jon/prog/kulsak/tabs/target/scala-3.0.2/classes/util/FileHandler.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

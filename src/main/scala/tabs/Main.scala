@@ -2,5 +2,5 @@ package tabs
 
 object Main:
     def main(args: Array[String]): Unit = {
-        println("hello world!")
+        println(System.getProperty("user.dir"))
     }
